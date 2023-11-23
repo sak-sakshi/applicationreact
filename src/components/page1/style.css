@@ -1,0 +1,23 @@
+.pg1{
+    height: 100%;
+    width: 100%;
+    background-image: url(./bg-effect-1.png);
+    display: flex;
+    justify-content: center;
+}
+.pg1-container img{
+height: 250px;
+border-radius: 150px;
+border: 5px solid #EFF3FA;
+}
+.pg1-icons{
+    display: flex;
+}
+.pg1-icons div{
+    height: 50px;
+    background-color: red;
+    border: none !important;
+}
+.pg1-icons  img{
+    height: 20px;
+}
